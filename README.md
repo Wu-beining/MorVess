@@ -533,20 +533,6 @@ net.load_parameters("path/to/epoch_XX.pth")
 
 ---
 
-## 📄 引用
-
-如果您在研究中使用了 MorVess，请引用：
-
-```bibtex
-@article{mao2025morvess,
-  title     = {MorVess: Morphology-Aware Pulmonary Vessel Segmentation Network},
-  author    = {Mao, Fuyou and Chen, Yifei and Wu, Beining and Lin, Lixin and 
-               Dai, Jinnan and Li, Zhiling and Chen, Yilei and Wang, Yaqi and 
-               Zhang, Hao and Tang, Yan and Zhou, Huiyu and Qin, Feiwei},
-  journal   = {Pattern Recognition},
-  year      = {2025}
-}
-```
 
 ---
 
